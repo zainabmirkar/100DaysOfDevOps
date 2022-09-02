@@ -14,7 +14,6 @@
     <img width="624" alt="4" src="https://user-images.githubusercontent.com/85761276/188211661-2f4e3f61-d952-4533-a94d-1fb1763ffd11.png">
    
 Reference:
-
 https://www.jenkins.io/doc/tutorials/tutorial-for-installing-jenkins-on-AWS/
 
 # Installation of Tomcat on AWS EC2 linux & integration with Jenkins
