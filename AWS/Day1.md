@@ -29,4 +29,3 @@ https://devops4solutions.com/installation-of-tomcat-on-aws-ec2-linux-integration
 
 Also, this is not a detailed explanation of each and every step. Please do read the references for more information.
 
-
