@@ -38,3 +38,6 @@ Elastic Load Balancing scales your load balancer capacity automatically in respo
  - Load balancer observeshow targets respond to connections.
  - enables the LB to detect unhealthy targets before it is reported unhealthy by active checks.
  - Health checks are done on url routes or ports. Expects 200 response to term it as healthy. 
+
+## Listener
+ - It is a process/rule that checks for connection requests, using the protocol and port that you have configure.
