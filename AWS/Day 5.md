@@ -31,8 +31,7 @@ Elastic Load Balancing scales your load balancer capacity automatically in respo
  # Health checks in Load Balancing
  
  - uses active and passive health checks.
-
-##Active
+ ## Active
   load balancer periodically sends a request to each registered target to check its status.
  - after that it closes the connection that was made established for health check.
  ## Passive
