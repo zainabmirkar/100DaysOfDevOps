@@ -21,5 +21,5 @@ h - If you need a little help about how to use less while you’re in less, use 
 9) cp - to copy a file. <br/>
    cp mycoolfile /home/pete/Documents/cooldocs. mycoolfile is the file you want to copy and /home/pete/Documents/cooldocs is where you are copying the file to.
 10) mv - Used for moving files and also renaming them. mv oldfile newfile <br/>
-    Or you can actually move a file to a different directory:
+    Or you can actually move a file to a different directory: <br/>
     $ mv file2 /home/pete/Documents
