@@ -15,20 +15,41 @@ Elastic Load Balancing scales your load balancer capacity automatically in respo
 2) reduces cost
 3) load balancers are intergrated with other services as well like RDS, SNS, VPC, Route 53, Amazon AMI etc.
 
+# Listeners
+Define the port and protocol on which the lb listens for inoming connections. <br/>
+Routing rules are defined on listeners.
+Each loadbalancer needs atleast one listener to acept incoming traffic, and can support upto 10 listeners. <br/>
+
+#Rules
+rules can forward requests to a specified target groups. When a request meets the condition of the rule, the associated action is taken.
+
+#Target Groups
+It can be ec2 instances, microservices or container based applications. All the ec2 instances within the same target group can have multiple ports. A single target can be a part of multiple target groups.
+
 
 # Types of Load Balancers:
 
 1) Network Load Balancers(2017)
- - It works over tcp, udp and tls. Maintains ultra low latency. operates on layer 4
+ - It works over tcp, udp and tls. Maintains ultra low latency. operates on layer 4 <br/>
+   
+  <img width="556" alt="nlb" src="https://user-images.githubusercontent.com/85761276/192594519-c1c7755f-6fad-4381-802b-eeed3e131c2c.png">
 
-2) Application Load Balancers(2016)
- - load balancing of http and https traffic. For microservices and container based applications. operates on layer 7
+
+2) Application Load Balancers(2016) 
+ - load balancing of http and https traffic. For microservices and container based applications. operates on layer 7. ALB can't see client ip directly but nlb can. <br/>
+<img width="535" alt="alb2" src="https://user-images.githubusercontent.com/85761276/192592681-6aaf6237-babc-4a1e-81db-2a0c0f288a1b.png">
+
 
 3) Classic Load Balancers (2009)
  - AWS first loadbalancer
  - can balance http, https, tcp traffics (not at the same time)
  - It will respond with 504(timeout) if the underlying application is not responding
- - old generation not recommended.
+ - helps in elasticity (Scaling up and dowm) automatically.
+ - old generation not recommended.<br/>
+ 
+# Important points <br/>
+<img width="444" alt="imppoints" src="https://user-images.githubusercontent.com/85761276/192595245-23df8bca-8aff-4891-bcc1-b2980878292c.png">
+
  
  
  # Health checks in Load Balancing
@@ -38,7 +59,7 @@ Elastic Load Balancing scales your load balancer capacity automatically in respo
   load balancer periodically sends a request to each registered target to check its status.
  - after that it closes the connection that was made established for health check.
  ## Passive
- - Load balancer observeshow targets respond to connections.
+ - Load balancer observes how targets respond to connections.
  - enables the LB to detect unhealthy targets before it is reported unhealthy by active checks.
  - Health checks are done on url routes or ports. Expects 200 response to term it as healthy. 
 
@@ -59,3 +80,8 @@ Elastic Load Balancing scales your load balancer capacity automatically in respo
 ## Cross Zone LoadBalancing
 
 <img width="547" alt="czl" src="https://user-images.githubusercontent.com/85761276/190865731-6aeb1f96-b878-4ef1-bdf8-5c0d9b3760dd.png">
+
+# References
+https://www.youtube.com/watch?v=pUm5nEIZQEs&list=PLiH9_MU-6RjI9gdFqmvUfKRfw_zRxIb6o&index=12
+
+https://www.youtube.com/watch?v=2W3Ud34SuUE
