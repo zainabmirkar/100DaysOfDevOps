@@ -82,6 +82,5 @@ It can be ec2 instances, microservices or container based applications. All the 
 <img width="547" alt="czl" src="https://user-images.githubusercontent.com/85761276/190865731-6aeb1f96-b878-4ef1-bdf8-5c0d9b3760dd.png">
 
 # References
-https://www.youtube.com/watch?v=pUm5nEIZQEs&list=PLiH9_MU-6RjI9gdFqmvUfKRfw_zRxIb6o&index=12
-
+https://www.youtube.com/watch?v=pUm5nEIZQEs&list=PLiH9_MU-6RjI9gdFqmvUfKRfw_zRxIb6o&index=12 <br/>
 https://www.youtube.com/watch?v=2W3Ud34SuUE
