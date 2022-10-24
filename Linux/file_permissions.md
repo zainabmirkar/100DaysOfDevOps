@@ -23,3 +23,6 @@ The digits you can use and what they represent are listed here:<br/>
 5: (101) Read and execute permissions.<br/>
 6: (110) Read and write permissions.<br/>
 7: (111) Read, write, and execute permissions.<br/>
+
+References:
+https://www.howtogeek.com/437958/how-to-use-the-chmod-command-on-linux/
