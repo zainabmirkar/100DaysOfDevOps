@@ -7,3 +7,4 @@ This repository is used to document my journey on getting a better foundational 
 [Day 4](https://github.com/zainabmirkar/100DaysOfDevOps/blob/main/AWS/Day4.md) <br/>
 [Day 5](https://github.com/zainabmirkar/100DaysOfDevOps/blob/main/AWS/Day%205.md) <br/>
 [Day 6](https://github.com/zainabmirkar/100DaysOfDevOps/blob/main/Linux/Basics.md)
+[Day 7](https://github.com/zainabmirkar/100DaysOfDevOps/blob/main/Linux/file_permissions.md)
