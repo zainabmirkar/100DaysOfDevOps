@@ -27,4 +27,5 @@ The digits you can use and what they represent are listed here:<br/>
 References:
 https://www.howtogeek.com/437958/how-to-use-the-chmod-command-on-linux/  <br/>
 https://www.youtube.com/watch?v=wBp0Rb-ZJak&t=6578s <br/>
-https://www.youtube.com/watch?v=U-vPg-xGXi4
+https://www.youtube.com/watch?v=U-vPg-xGXi4  <br/>
+https://github.com/bregman-arie/devops-exercises/tree/master/topics/linux#questions-linux-permissions
