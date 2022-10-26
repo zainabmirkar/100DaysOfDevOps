@@ -26,4 +26,7 @@ What is a fleet in AWS? <br/>
 An EC2 Fleet is a group of On-Demand Instances and Spot Instances. The EC2 Fleet attempts to launch the number of instances that are required to meet the target capacity that you specify in the fleet request.
 
 When to scale? <br/>
-By using target tracking we will tell the asg when the cpu utilization goes up by a certain percentage to scale up or down.
+By using target tracking we will tell the asg when the cpu utilization goes up by a certain percentage to scale up or down. <br/>
+
+references: <br/>
+https://www.youtube.com/watch?v=NGWKbF67_1Q&list=PLiH9_MU-6RjI9gdFqmvUfKRfw_zRxIb6o&index=15
