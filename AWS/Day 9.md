@@ -28,4 +28,8 @@
 - virtually unlimited scale.
 - security 
 - encryption
-- cost effective
+- cost effective <br/>
+
+
+
+to be continued [EBS Volume Types](https://github.com/zainabmirkar/100DaysOfDevOps/blob/main/AWS/Day%2010.md)
