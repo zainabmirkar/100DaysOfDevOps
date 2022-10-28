@@ -7,3 +7,8 @@
 - any az in the region can use snapshot to create a volume.
 - to migrate ab ebs volume from one az toanother, create a snapshot of the respective az and then create a ebs volume from that intended snapshot.
 - if you are creating an ebs volume of a snapshot, its size can be equal to the snapshot or larger but never less.
+- you can take a snapshot of a non root/non root volume even when its in the running state. This means you can still access it while snapshot is being processed. However the snapshot will only include the data that is written in the volume.
+- The snapshot is created immediately but it may stay in the pending state until the full snapshot is created. This may take few hours for the first time. You can still access the non root volume, but the i/o will be slower because of ss activity.
+- While in pedning state the snapshot will not include ongoing read and writes to the volume.
+- To take complete snapshot of your ebs volume stop or unmount the volume.  
+- To create a ss for root volume first stop the instance and then take ss.
