@@ -11,4 +11,5 @@ This repository is used to document my journey on getting a better foundational 
 [Day 8](https://github.com/zainabmirkar/100DaysOfDevOps/blob/main/AWS/Day%208.md) <br/>
 [Day 9](https://github.com/zainabmirkar/100DaysOfDevOps/blob/main/AWS/Day%209.md) <br/>
 [Day 10](https://github.com/zainabmirkar/100DaysOfDevOps/blob/main/AWS/Day%2010.md) <br/>
-[Day 11](https://github.com/zainabmirkar/100DaysOfDevOps/blob/main/AWS/Day%2011%20EBS%20Snapshots.md)
+[Day 11](https://github.com/zainabmirkar/100DaysOfDevOps/blob/main/AWS/Day%2011%20EBS%20Snapshots.md) <br/>
+[Day 12](https://github.com/zainabmirkar/100DaysOfDevOps/blob/main/AWS/Day%2012%20types%20of%20EBS%20Volumes.pdf) <br/>
