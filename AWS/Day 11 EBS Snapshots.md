@@ -12,3 +12,10 @@
 - While in pedning state the snapshot will not include ongoing read and writes to the volume.
 - To take complete snapshot of your ebs volume stop or unmount the volume.  
 - To create a ss for root volume first stop the instance and then take ss.
+- Deleting snapshot will only remove data exclusive to that snapshot.
+
+# Incremental Snapshots
+![image](https://user-images.githubusercontent.com/85761276/198816839-92de8ccd-2a9a-423b-b3d5-b874af1b9a5c.png) <br/>
+<br/>
+![image](https://user-images.githubusercontent.com/85761276/198816931-cfbed40b-68cb-420d-bf45-ecf3965bcc5f.png)
+
