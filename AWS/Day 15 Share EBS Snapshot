@@ -1,1 +1,9 @@
+- To encrypt a snapshot or a volume you need a key which is called Customer Masters Key (CMK) and are managed by KMS.
+- When encrypting first ebs volume, AWS KMS creates a default CMK key. After that the snapshots, volumes that you will create will be from same key.
+- After that each newly encrypted volume is encrypted with a unique/seperate aes-256 bit encryption key. <br/>
+
+
+
+
+
 
