@@ -1,4 +1,5 @@
 # EBS ENCRYPTION
+![image](https://user-images.githubusercontent.com/85761276/198881485-5ce1f89c-6d03-4043-afb3-4ec7d60facd2.png) <br/>
 
 ![image](https://user-images.githubusercontent.com/85761276/198817333-28e1e63e-0902-4edc-b425-03e1eaee8460.png) <br/>
 ![image](https://user-images.githubusercontent.com/85761276/198817412-2d5f2146-139a-439a-887c-128a081404e1.png) <br/>
@@ -24,7 +25,11 @@
 - Earlier there was no way to encrypt root volume. <br/>
 ![image](https://user-images.githubusercontent.com/85761276/198818177-b9691fe5-d668-4fb4-9d41-b0e8d8134389.png)
 
+# Instance store <br/>
+
+![image](https://user-images.githubusercontent.com/85761276/198881785-3f25edc6-3ec3-4474-92a6-c26807accb98.png)
 
 - References <br/>
-  https://www.youtube.com/watch?v=fUY3NcpJ9sk&list=PLBGx66SQNZ8a_y_CMLHchyHz_R6-6i-i_&index=46
-  https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EBSEncryption.html
+  https://www.youtube.com/watch?v=fUY3NcpJ9sk&list=PLBGx66SQNZ8a_y_CMLHchyHz_R6-6i-i_&index=46 <br/>
+  https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EBSEncryption.html <br/>
+  https://www.youtube.com/watch?v=5_E7ureQ0qE&t=3s <br/>
