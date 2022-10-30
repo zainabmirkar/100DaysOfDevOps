@@ -14,3 +14,4 @@ This repository is used to document my journey on getting a better foundational 
 [Day 11](https://github.com/zainabmirkar/100DaysOfDevOps/blob/main/AWS/Day%2011%20EBS%20Snapshots.md) <br/>
 [Day 12](https://github.com/zainabmirkar/100DaysOfDevOps/blob/main/AWS/Day%2012%20types%20of%20EBS%20Volumes.pdf) <br/>
 [Day 13](https://github.com/zainabmirkar/100DaysOfDevOps/blob/main/AWS/Day%2013%20Encrypt%20EBS%20Volume.md) <br/>
+[Day 14](https://github.com/zainabmirkar/100DaysOfDevOps/edit/main/Linux/file_permissions.md)
