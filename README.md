@@ -19,3 +19,4 @@ This repository is used to document my journey on getting a better foundational 
 [Day 16 and 17](https://github.com/zainabmirkar/100DaysOfDevOps/blob/main/AWS/Storage/S3/Day%2016%20and%2017%20S3.md) <br/>
 [Day 18](https://github.com/zainabmirkar/100DaysOfDevOps/blob/main/AWS/Storage/S3/Day%2018%20S3%20Storage%20Classes.md) <br/>
 [Day 19](https://github.com/zainabmirkar/100DaysOfDevOps/blob/main/AWS/Storage/S3/Day%2019%20S3%20Lab.md) <br/>
+[Day 20](https://github.com/zainabmirkar/100DaysOfDevOps/blob/main/AWS/Storage/S3/Day%2020%20Bucket%20Creation%20using%20CLI.md) <br/>
