@@ -20,3 +20,6 @@
 
 - Done!!
     ![image](https://user-images.githubusercontent.com/85761276/199785419-45f3c392-78f1-4227-822f-94af0c0614e9.png)
+
+
+- It will show only the latest version of objects.
