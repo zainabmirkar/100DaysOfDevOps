@@ -35,6 +35,7 @@ Doing so allows for simpler processing of logs in a single location.
 # Points to remember while replication
 - versioning should be enabled
 - the objects that are uploaded after replication, only those are replicated and not the earlier objects. However you can choose to replicate the existing objects.
+- If you have applied replication rule to bucket1 then the objects in the bucket1 will be replicated to the destination bucket and not vice versa.
 
 # Steps
 - Create buckets, after that go to management then add a replication rule.
