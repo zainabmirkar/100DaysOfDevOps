@@ -22,3 +22,4 @@ This repository is used to document my journey on getting a better foundational 
 [Day 20](https://github.com/zainabmirkar/100DaysOfDevOps/blob/main/AWS/Storage/S3/Day%2020%20Bucket%20Creation%20using%20CLI.md) <br/>
 [Day 21](https://github.com/zainabmirkar/100DaysOfDevOps/blob/main/AWS/Storage/S3/Day%2021%20Lab%20Configuring%20a%20static%20website%20S3.md) <br/>
 [Day 22](https://github.com/zainabmirkar/100DaysOfDevOps/blob/main/AWS/Storage/S3/Day%2022%20Replication.md) <br/>
+[Day 23](https://github.com/zainabmirkar/100DaysOfDevOps/blob/main/AWS/Storage/EFS/Day%2023%20EFS%20Introduction.md)
