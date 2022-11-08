@@ -24,4 +24,7 @@
 
 
 
-References: https://docs.aws.amazon.com/efs/latest/ug/how-it-works.html#how-it-works-conceptual
+References: https://docs.aws.amazon.com/efs/latest/ug/how-it-works.html#how-it-works-conceptual <br/>
+https://docs.aws.amazon.com/efs/latest/ug/mounting-fs-mount-helper-ec2-mac.html <br/>
+https://www.youtube.com/watch?v=rsU-UnAtgBM
+ 
