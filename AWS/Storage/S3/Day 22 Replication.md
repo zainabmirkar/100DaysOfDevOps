@@ -44,7 +44,7 @@ Doing so allows for simpler processing of logs in a single location.
 - add objects to the bucket
   ![image](https://user-images.githubusercontent.com/85761276/200109546-753a7410-d07f-4844-9927-d91d101f5b73.png)
  
-- you can see the objects replicating in another bucket.
+- you can see the objects replicating in destination bucket.
 
   ![image](https://user-images.githubusercontent.com/85761276/200109587-d68df276-2489-4592-aada-575fdf72564e.png)
 
