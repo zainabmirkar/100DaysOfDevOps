@@ -24,4 +24,6 @@ This repository is used to document my journey on getting a better foundational 
 [Day 22](https://github.com/zainabmirkar/100DaysOfDevOps/blob/main/AWS/Storage/S3/Day%2022%20Replication.md) <br/>
 [Day 23](https://github.com/zainabmirkar/100DaysOfDevOps/blob/main/AWS/Storage/EFS/Day%2023%20EFS%20Introduction.md) <br/>
 [Day 24](https://github.com/zainabmirkar/100DaysOfDevOps/blob/main/AWS/Storage/EFS/Day%2024%20EFS%20Lab.md) <br/>
-[Day 25 ECS Introduction](https://github.com/zainabmirkar/100DaysOfDevOps/blob/main/AWS/DockerContainers/ECS/ECS%20Introduction.md)
+[Day 25 ECS Introduction](https://github.com/zainabmirkar/100DaysOfDevOps/blob/main/AWS/DockerContainers/ECS/ECS%20Introduction.md) <br/>
+[Day 26](https://github.com/zainabmirkar/100DaysOfDevOps/blob/main/AWS/DockerContainers/ECS/Day%2026%20AWS%20ECS%20%2B%20Dynamic%20Port%20Mapping.md)<br/>
+[Day 27 Terraform Introduction](https://github.com/zainabmirkar/100DaysOfDevOps/blob/main/Terraform/Day%2027%20Terraform%20Introduction.md)<br/>
