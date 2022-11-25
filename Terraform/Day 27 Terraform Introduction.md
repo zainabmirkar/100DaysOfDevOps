@@ -42,6 +42,9 @@ Terraform relies on plugins called providers to interact with cloud providers, S
    ![image](https://user-images.githubusercontent.com/85761276/202909130-c3f983a4-9305-4c89-869a-f95d978383bf.png)
    
    
+   
+# Terraform state 
+https://developer.hashicorp.com/terraform/language/state
 
 
 
