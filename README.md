@@ -27,3 +27,4 @@ This repository is used to document my journey on getting a better foundational 
 [Day 25 ECS Introduction](https://github.com/zainabmirkar/100DaysOfDevOps/blob/main/AWS/DockerContainers/ECS/ECS%20Introduction.md) <br/>
 [Day 26](https://github.com/zainabmirkar/100DaysOfDevOps/blob/main/AWS/DockerContainers/ECS/Day%2026%20AWS%20ECS%20%2B%20Dynamic%20Port%20Mapping.md)<br/>
 [Day 27 Terraform Introduction](https://github.com/zainabmirkar/100DaysOfDevOps/blob/main/Terraform/Day%2027%20Terraform%20Introduction.md)<br/>
+[Day 28 Helm](https://github.com/zainabmirkar/100DaysOfDevOps/blob/main/Kubernetes/Helm/Day%2028%20Helm%20and%20Helm%20Charts.md)<br/>
