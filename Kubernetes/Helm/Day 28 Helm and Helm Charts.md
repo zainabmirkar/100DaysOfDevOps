@@ -24,8 +24,7 @@ The above searches for all wordpress charts on Artifact Hub.
 <br/>
 <br/>
 <br/>
-
-
+<br/>
 
 
 
