@@ -29,4 +29,5 @@ The above searches for all wordpress charts on Artifact Hub.
 
 
 #### References <br/>
-https://helm.sh/docs/intro/using_helm/
+https://helm.sh/docs/intro/using_helm/  <br/>
+https://www.youtube.com/watch?v=-ykwb1d0DXU
