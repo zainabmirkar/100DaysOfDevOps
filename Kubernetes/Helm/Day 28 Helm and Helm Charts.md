@@ -3,6 +3,7 @@
 - Create your own helm charts.
 - Push them to helm repository.
 - Download and use the existing ones.
+- Instead of deploying the same yaml files into different clusters, you can make your own chart to re-deploy the same application across multiple clusters.
 
 
 ## 'helm search': Finding Charts
@@ -21,6 +22,10 @@ The above searches for all wordpress charts on Artifact Hub.
 ## Creating Your Own Charts
 - helm create command
 
+## Helm Chart Structure
+
+![image](https://user-images.githubusercontent.com/85761276/204333059-94ad6217-f661-4c4b-a81b-641e7deda205.png)
+
 <br/>
 <br/>
 <br/>
@@ -30,4 +35,5 @@ The above searches for all wordpress charts on Artifact Hub.
 
 #### References <br/>
 https://helm.sh/docs/intro/using_helm/  <br/>
-https://www.youtube.com/watch?v=-ykwb1d0DXU
+https://www.youtube.com/watch?v=-ykwb1d0DXU <br/>
+https://www.youtube.com/watch?v=-ykwb1d0DXU&t=437s
