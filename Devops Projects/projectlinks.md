@@ -116,3 +116,5 @@ https://lnkd.in/dx3aY9VJ
 
 https://lnkd.in/dkcGHgqd
 
+29. Deploying End to End Website on AWS | Intellipaat
+https://www.youtube.com/watch?v=7Gym2XVcA5A&t=2087s
