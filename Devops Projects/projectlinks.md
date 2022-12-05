@@ -117,10 +117,15 @@ https://lnkd.in/dx3aY9VJ
 https://lnkd.in/dkcGHgqd
 
 29. Deploying End to End Website on AWS | Intellipaat
+
 https://www.youtube.com/watch?v=7Gym2XVcA5A&t=2087s
 
 30. React App on AWS S3 with Static Hosting + Cloudfront
+
+
  https://www.youtube.com/watch?v=mls8tiiI3uc
  
  31. Build a Docker based Flask App with Aurora Serverless 
+
+
  https://www.youtube.com/watch?v=NM4Vd7fpZWk
