@@ -34,3 +34,8 @@ https://training.linuxfoundation.org/training/inclusive-open-source-community-or
 - vscode extensions
 
 https://www.youtube.com/watch?v=nqFID70axxw&list=PL69nYSiGNLP3QpQrhZq_sLYo77BVKv09F&index=2
+
+
+
+#### makefiles
+https://www.youtube.com/watch?v=FfG-QqRK4cY
