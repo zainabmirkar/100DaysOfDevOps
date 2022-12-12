@@ -32,3 +32,4 @@ This repository is used to document my journey on getting a better foundational 
 [Day 30 Project](https://github.com/zainabmirkar/100DaysOfDevOps/blob/main/Devops%20Projects/AWS/Build%20a%20Basic%20Web%20Application.md)<br/>
 [Day 31 AWS Lambda](https://github.com/zainabmirkar/100DaysOfDevOps/blob/main/AWS/Serverless/Lambda/Lambda.md) <br/>
 [Day 32 Linux Syslog](https://github.com/zainabmirkar/100DaysOfDevOps/blob/main/Linux/Day%2032%20Syslog.md)<br/>
+[Day 33 Github Actions](https://github.com/zainabmirkar/100DaysOfDevOps/blob/main/CICD/GitHub%20Actions/Day%2033%20GithubActions.md)<br/>
