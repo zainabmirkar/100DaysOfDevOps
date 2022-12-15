@@ -37,6 +37,13 @@ If there are running processes with names matching “init”, their PIDs will b
 - top allows you display of process statistics continuously until stopped vs. ps which gives you a single snapshot.
 - top is like a task manager
 
+
+## kill
+- killall process-name
+
+
+
+
 ### Reference 
 https://www.geeksforgeeks.org/top-command-in-linux-with-examples/ <br/>
 https://linuxize.com/post/pgrep-command-in-linux/
