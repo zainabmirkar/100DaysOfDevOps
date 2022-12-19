@@ -34,3 +34,4 @@ This repository is used to document my journey on getting a better foundational 
 [Day 32 Linux Syslog](https://github.com/zainabmirkar/100DaysOfDevOps/blob/main/Linux/Day%2032%20Syslog.md)<br/>
 [Day 33 Github Actions](https://github.com/zainabmirkar/100DaysOfDevOps/blob/main/CICD/GitHub%20Actions/Day%2033%20GithubActions.md)<br/>
 [Day 34 Github Actions Project](https://github.com/zainabmirkar/100DaysOfDevOps/blob/main/Devops%20Projects/GitHub%20Actions/hello-world-docker-action.md)<br/>
+[Day 35 Docker Introduction](https://github.com/zainabmirkar/100DaysOfDevOps/blob/main/Docker/Day%2035%20Docker%20Introduction.md)<br/>
