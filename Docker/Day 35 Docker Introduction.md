@@ -32,6 +32,10 @@
 
 ![image](https://user-images.githubusercontent.com/85761276/208493682-a986729b-44d1-4f13-ae5d-ee1dea11d8c3.png)
 
+### to delete all the container and images
+- docker system prune -a 
+
+- docker rm myapp
 
 #### Reference
 https://docs.docker.com/get-started/02_our_app/
