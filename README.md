@@ -28,8 +28,8 @@ This repository is used to document my journey on getting a better foundational 
 [Day 26](https://github.com/zainabmirkar/100DaysOfDevOps/blob/main/AWS/DockerContainers/ECS/Day%2026%20AWS%20ECS%20%2B%20Dynamic%20Port%20Mapping.md)<br/>
 [Day 27 Terraform Introduction](https://github.com/zainabmirkar/100DaysOfDevOps/blob/main/Terraform/Day%2027%20Terraform%20Introduction.md)<br/>
 [Day 28 Helm](https://github.com/zainabmirkar/100DaysOfDevOps/blob/main/Kubernetes/Helm/Day%2028%20Helm%20and%20Helm%20Charts.md)<br/>
-[Day 29 Project](https://github.com/zainabmirkar/100DaysOfDevOps/blob/main/Devops%20Projects/AWS/amplify-react-app.md) <br/>
-[Day 30 Project](https://github.com/zainabmirkar/100DaysOfDevOps/blob/main/Devops%20Projects/AWS/Build%20a%20Basic%20Web%20Application.md)<br/>
+[Day 29 AWS Project](https://github.com/zainabmirkar/100DaysOfDevOps/blob/main/Devops%20Projects/AWS/amplify-react-app.md) <br/>
+[Day 30 AWS Project](https://github.com/zainabmirkar/100DaysOfDevOps/blob/main/Devops%20Projects/AWS/Build%20a%20Basic%20Web%20Application.md)<br/>
 [Day 31 AWS Lambda](https://github.com/zainabmirkar/100DaysOfDevOps/blob/main/AWS/Serverless/Lambda/Lambda.md) <br/>
 [Day 32 Linux Syslog](https://github.com/zainabmirkar/100DaysOfDevOps/blob/main/Linux/Day%2032%20Syslog.md)<br/>
 [Day 33 Github Actions](https://github.com/zainabmirkar/100DaysOfDevOps/blob/main/CICD/GitHub%20Actions/Day%2033%20GithubActions.md)<br/>
