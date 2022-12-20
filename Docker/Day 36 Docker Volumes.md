@@ -10,3 +10,5 @@
 - map the api folder in your local computer to the /app folder in your container.
 
     ![image](https://user-images.githubusercontent.com/85761276/208604940-1322e439-9d7d-4a11-b123-12d268eaebf2.png)
+
+- Here we can see that nodemon restarting again due to changes and the changes will be reflected in our app without having to rebuild the image.
