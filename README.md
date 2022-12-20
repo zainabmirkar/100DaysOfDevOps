@@ -7,7 +7,7 @@ This repository is used to document my journey on getting a better foundational 
 [Day 4 AWS Scalability and Availability](https://github.com/zainabmirkar/100DaysOfDevOps/blob/main/AWS/Day4.md) <br/>
 [Day 5 Load Balancers](https://github.com/zainabmirkar/100DaysOfDevOps/blob/main/AWS/Day%205.md) <br/>
 [Day 6 Linux Basic Command Line Commands](https://github.com/zainabmirkar/100DaysOfDevOps/blob/main/Linux/Basics.md) <br/>
-[Day 7 Linux File permissions](https://github.com/zainabmirkar/100DaysOfDevOps/blob/main/Linux/file_permissions.md) <br/>
+[Day 7 Linux File commands](https://github.com/zainabmirkar/100DaysOfDevOps/blob/main/Linux/FileCommands.md) <br/>
 [Day 8 AWS Auto Scaling Groups](https://github.com/zainabmirkar/100DaysOfDevOps/blob/main/AWS/Day%208.md) <br/>
 [Day 9 AWS EBS](https://github.com/zainabmirkar/100DaysOfDevOps/blob/main/AWS/Day%209.md) <br/>
 [Day 10 Practical EBS](https://github.com/zainabmirkar/100DaysOfDevOps/blob/main/AWS/Day%2010.md) <br/>
