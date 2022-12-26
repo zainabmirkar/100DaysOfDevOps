@@ -110,13 +110,6 @@ and run an instance.
 - Sometimes you might have a scenario where you have a helper container that might be doing some kind of supporting task for our web application, such as processing a user and they're data processing a file uploaded by the user, et cetera, and you want these helper containers to live alongside your application container.
 - In that case, you can have both of these containers part of the same pod.
 
-### Pods with yaml
-- 
-
-
-
-
-
 
 
 
