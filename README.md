@@ -38,7 +38,7 @@ This repository is used to document my journey on getting a better foundational 
 [Day 36 Docker Volumes](https://github.com/zainabmirkar/100DaysOfDevOps/blob/main/Docker/Day%2036%20Docker%20Volumes.md)<br/>
 [Day 37 Docker Compose](https://github.com/zainabmirkar/100DaysOfDevOps/blob/main/Docker/Day%2037%20Docker%20Compose.md)<br/>
 [Day 38 Docker Project](https://github.com/zainabmirkar/Dockerize-Nodejs-App)<br/>
-[Day 39 and 40 Cluster Architecture](https://github.com/zainabmirkar/100DaysOfDevOps/blob/main/Kubernetes/Core%20Concepts/Day%2039%20and%2040%20Cluster%20Architecture.md) <br/>
+[Day 39 and 40 Kubernetes Cluster Architecture](https://github.com/zainabmirkar/100DaysOfDevOps/blob/main/Kubernetes/Core%20Concepts/Day%2039%20and%2040%20Cluster%20Architecture.md) <br/>
 
 
 
