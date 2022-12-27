@@ -38,5 +38,11 @@ and that will update the Replica Set to have six replicas.
 - kubectl scale - -replicas=5 -f replicaset-app.yaml   Scale up
 - kubectl scale - -replicas=1 -f replicaset-app.yaml  Scale down
 
+
+# Deployments
+- When we create a deployment, it creates a replica set, using the exact pod specification that we gave it.
+- When we update a deployment and adjust the number of replicas, it passes that update down to the replica set.
+
 ### Reference 
 https://kubernetes.io/docs/concepts/workloads/controllers/replicaset/
+https://semaphoreci.com/blog/kubernetes-deployment
