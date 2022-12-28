@@ -114,5 +114,5 @@ and run an instance.
 
 
 
-#### Reference
+#### Also read
 https://k21academy.com/docker-kubernetes/kubernetes-architecture-components-overview-for-beginners/
