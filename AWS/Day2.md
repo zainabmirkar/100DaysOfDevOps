@@ -66,6 +66,7 @@ Now you can see as the inbound rule for http is specified
   <img width="527" alt="helloworld" src="https://user-images.githubusercontent.com/85761276/188305672-a11c198d-d9fa-4018-9b4f-e0831c41c4e5.png">
   
   References:<br/>
-  https://www.youtube.com/watch?v=s3G4p0CLG20&list=PLiH9_MU-6RjI9gdFqmvUfKRfw_zRxIb6o&index=11
+  https://www.youtube.com/watch?v=s3G4p0CLG20&list=PLiH9_MU-6RjI9gdFqmvUfKRfw_zRxIb6o&index=11 <br/>
+  https://www.youtube.com/watch?v=poAvpknMDwI
   
 
