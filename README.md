@@ -43,3 +43,4 @@ This repository is used to document my journey on getting a better foundational 
 [Day 42 K8 Services](https://github.com/zainabmirkar/100DaysOfDevOps/blob/main/Kubernetes/Core%20Concepts/Day%2042%20K8%20Services.md)<br/>
 [Day 43 K8 Manual Scheduling](https://github.com/zainabmirkar/100DaysOfDevOps/blob/main/Kubernetes/Scheduling/Day%2043%20Manual%20Scheduling.md)<br/>
 [Day 44 K8 Node Affinity](https://github.com/zainabmirkar/100DaysOfDevOps/blob/main/Kubernetes/Scheduling/Day%2044%20Node%20Affinity.md)<br/>
+[Day 45 K8 Rolling Updates and Rollbacks](https://github.com/zainabmirkar/100DaysOfDevOps/blob/main/Kubernetes/Application%20Lifecycle%20Management/Day%2045%20Rolling%20Updates%20and%20Rollbacks.md) <br/>
