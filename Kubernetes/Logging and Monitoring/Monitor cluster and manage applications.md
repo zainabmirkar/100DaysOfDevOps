@@ -7,13 +7,13 @@
 
 
 ## Minikube
-- If you're using minikube for your local cluster, run the command minikube addons enable metrics-server.
+- If you're using minikube for your local cluster, run the command ```minikube addons enable metrics-server```
 
 ## Commands
-- kubectl top node. (This provides the CPU and memory consumption of each of the node)
-- Use the kubectl top pod command to view performance metrics of pods in Kubernetes.
+- ```kubectl top node``` (This provides the CPU and memory consumption of each of the node)
+- Use the ```kubectl top pod``` command to view performance metrics of pods in Kubernetes.
 
 
 ## Managing applications
-- kubectl logs -f podname - to view containers logs
+- ```kubectl logs -f podname``` - to view containers logs
 - Which containers logs would it show? If there are multiple containers within a pod, you must specify the name of the container explicitly in the command.
