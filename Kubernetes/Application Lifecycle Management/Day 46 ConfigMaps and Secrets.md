@@ -25,3 +25,25 @@ https://kubernetes.io/docs/concepts/configuration/configmap/
 
 ### Configure configmaps in pod.yaml
 - add a property to the container ```envFrom```
+
+
+## Secrets
+- for storing sensitive information.
+
+#### imperative approach
+- ```kubectl create secret generic <secret-name> --from-literal=<key>=<value>```
+- 
+#### Declarative Approach
+- In this approach we create a definition file just like how we did for the ConfigMap. The file has apiVersion, kind, metadata and data.
+- we have specified the data in plain text which is not very safe. 
+- So while creating a secret with declarative approach you must specify the secret values in a hashed format.
+- But how do you convert the data from plain text to an encoded format? On a Linux host run the command echo -n followed by the text you are trying to convert, which is mysql in this case and pipe that to the base64 utility.
+- ``` echo -n mysql | base64```
+- ``` kubectl get secrets```
+- ```kubectl describe secrets```
+- ``` kubectl get secret app-secret -o yaml``` output will be in yaml file
+
+
+
+
+
