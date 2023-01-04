@@ -32,7 +32,7 @@ https://kubernetes.io/docs/concepts/configuration/configmap/
 
 #### imperative approach
 - ```kubectl create secret generic <secret-name> --from-literal=<key>=<value>```
-- 
+
 #### Declarative Approach
 - In this approach we create a definition file just like how we did for the ConfigMap. The file has apiVersion, kind, metadata and data.
 - we have specified the data in plain text which is not very safe. 
