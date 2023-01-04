@@ -1,6 +1,6 @@
 # Configure Environment Variables in applications
 
-- use env propertu which is an array
+- use env property which is an array
 - this is a direct way of specifying env which is a key value format
 - other ways are config maps and secrets
 
