@@ -1,1 +1,0 @@
-# Encrypting data at rest
