@@ -14,3 +14,5 @@
   - Unlike drain it doesn’t terminate or move the PODs on an existing node. 
   - It simply makes sure that new PODs are not scheduled on that node.
     
+## Backup and Restore
+https://www.waytoeasylearn.com/learn/backup-and-restore/
