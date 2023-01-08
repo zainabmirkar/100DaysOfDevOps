@@ -129,3 +129,73 @@ https://www.youtube.com/watch?v=7Gym2XVcA5A&t=2087s
 
 
  https://www.youtube.com/watch?v=NM4Vd7fpZWk
+ 
+ 
+32. Simple DevOps Project-1 | Simple DevOps project for CI/CD | CI/CD through Jenkins
+https://lnkd.in/dXsSW99a
+
+33. Simple DevOps Projects - Part 1 | DevOps Projects for Beginners | DevOps Training | Edureka
+https://lnkd.in/d3FDFZS5
+
+34. Simple DevOps Project | DevOps Projects for Beginners | DevOps Project from Scratch | Intellipaat
+https://lnkd.in/drRGSFdD
+
+35. DevOps-Projects
+https://lnkd.in/dHjRri48
+
+36. Simple DevOps Project-3 | DevOps project with Git, Jenkins and Docker on AWS | CICD on containers
+https://lnkd.in/dtwQKwrG
+
+37. DevOps Tutorial : Simple DevOps Project
+https://lnkd.in/dvPFiAZQ
+
+38. Simple DevOps Project-1 | Simple DevOps project for CI/CD | CI/CD through Jenkins
+https://lnkd.in/dt7uBSA5
+
+39. Simple DevOps Project-2 | CI/CD pipeline using GIT, Jenkins & Ansible
+https://lnkd.in/d-uxbTeH
+
+40. Simple DevOps Projects - Part 2 | DevOps Projects for Beginners | DevOps Training | Edureka
+https://lnkd.in/d3fnFwrw
+
+41. Simple DevOps Projects - Part 3 | DevOps Projects for Beginners | DevOps Training | Edureka
+https://lnkd.in/dRfyHpvR
+
+42. Simple DevOps Project-4 - Part-01 | How To Create a Docker Image Using Jenkins And Ansible
+https://lnkd.in/d8YEmAxP
+
+43. DevOps Project 2021 - How to Learn DevOps Through a Practical Project
+https://lnkd.in/dT8c6R-s
+
+44. Simple DevOps Project - Troubleshooting steps
+https://lnkd.in/dYazXJQv
+
+45. Simple DevOps Project-4 - Part 03 | Enable versioning on docker images through jenkins job
+https://lnkd.in/dVQ7eyuW
+
+46. Complete DevOps Project | Github, Docker, Dockerhub, Git, Jenkins, Ansible
+https://lnkd.in/d3RFuhW2
+
+47. Simple DevOps Projects - Simple DevOps Projects #1 |DevOps Jenkins CI/CD project Apache Tomcat maven
+https://lnkd.in/dh6A85jC
+
+48. sample devops end to end project v1- devops project | ci/cd declarative pipeline using devops tools
+https://lnkd.in/dUVmADfx
+
+49. Complete END to END Azure DevOps Tutorials Series with Practical's Full Course in 4 Hours
+https://lnkd.in/dhXdJTGC
+
+50. DevOps Setup for Test, Build and Deploy a Java Project | DevOps Project to Build, Test and Deploy
+https://lnkd.in/dp6pvDFV
+
+51. DevOps Project Part-2 | Setting up CI-CD Pipeline for an E-Commerce App | DevOps Training | Edureka
+https://lnkd.in/dK4iqx-a
+
+52. AWS Projects for beginners | Deploying End to End Website on AWS
+https://lnkd.in/dAGFN_RH
+
+53. AWS CodePipeline tutorial | Build a CI/CD Pipeline on AWS
+https://lnkd.in/dg8JSet5
+
+54. DevOps Project | Creating CI CD Pipeline Using Jenkins | Intellipaat
+https://lnkd.in/dFaEagvK
