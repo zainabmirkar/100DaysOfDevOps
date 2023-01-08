@@ -45,3 +45,4 @@ This repository is used to document my journey on getting a better foundational 
 [Day 44 K8 Node Affinity](https://github.com/zainabmirkar/100DaysOfDevOps/blob/main/Kubernetes/Scheduling/Day%2044%20Node%20Affinity.md)<br/>
 [Day 45 K8 Rolling Updates and Rollbacks](https://github.com/zainabmirkar/100DaysOfDevOps/blob/main/Kubernetes/Application%20Lifecycle%20Management/Day%2045%20Rolling%20Updates%20and%20Rollbacks.md) <br/>
 [Day 46 K8 ConfigMaps and Secrets](https://github.com/zainabmirkar/100DaysOfDevOps/blob/main/Kubernetes/Application%20Lifecycle%20Management/Day%2046%20ConfigMaps%20and%20Secrets.md)<br/>
+[day 47 K8 Cluster Maintenance](https://github.com/zainabmirkar/100DaysOfDevOps/blob/main/Kubernetes/Cluster%20Maintenance/Cluster%20Maintenance.md) <br/>
