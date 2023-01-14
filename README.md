@@ -1,4 +1,6 @@
 # 100DaysOfDevOps
+![image](https://user-images.githubusercontent.com/85761276/212458048-0a42c0e1-85c3-44f8-8213-6b74ded0ad30.png)
+
 This repository is used to document my journey on getting a better foundational knowledge of "DevOps".
 
 [Day 1 Jenkins master slave setup on EC2 instance](https://github.com/zainabmirkar/100DaysOfDevOps/blob/main/AWS/Day1.md) <br/>
