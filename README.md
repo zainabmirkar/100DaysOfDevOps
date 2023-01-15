@@ -48,3 +48,4 @@ This repository is used to document my journey on getting a better foundational 
 [Day 45 K8 Rolling Updates and Rollbacks](https://github.com/zainabmirkar/100DaysOfDevOps/blob/main/Kubernetes/Application%20Lifecycle%20Management/Day%2045%20Rolling%20Updates%20and%20Rollbacks.md) <br/>
 [Day 46 K8 ConfigMaps and Secrets](https://github.com/zainabmirkar/100DaysOfDevOps/blob/main/Kubernetes/Application%20Lifecycle%20Management/Day%2046%20ConfigMaps%20and%20Secrets.md)<br/>
 [Day 47 K8 Cluster Maintenance](https://github.com/zainabmirkar/100DaysOfDevOps/blob/main/Kubernetes/Cluster%20Maintenance/Cluster%20Maintenance.md) <br/>
+[Day 48 K8 Storage pvc and storage classes](https://github.com/zainabmirkar/100DaysOfDevOps/blob/main/Kubernetes/Storage/Day%2048%20Storage%20pvc%20and%20sc.md)<br/>
