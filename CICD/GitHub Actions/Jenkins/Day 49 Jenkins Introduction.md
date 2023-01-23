@@ -18,3 +18,6 @@
 - ```Freestyle Build:``` Basically they are shell scripts running on a server that can be triggered by specific events. They're very easy to use.
 - ```Pipelines:``` A Pipeline’s code defines your entire build process, which typically includes stages for building an application, testing it and then delivering it. They user jenkinsfile written in groovy syntax.
 
+
+##### Reference
+https://www.youtube.com/watch?v=6YZvp2GwT0A
