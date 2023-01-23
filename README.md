@@ -49,3 +49,4 @@ This repository is used to document my journey on getting a better foundational 
 [Day 46 K8 ConfigMaps and Secrets](https://github.com/zainabmirkar/100DaysOfDevOps/blob/main/Kubernetes/Application%20Lifecycle%20Management/Day%2046%20ConfigMaps%20and%20Secrets.md)<br/>
 [Day 47 K8 Cluster Maintenance](https://github.com/zainabmirkar/100DaysOfDevOps/blob/main/Kubernetes/Cluster%20Maintenance/Cluster%20Maintenance.md) <br/>
 [Day 48 K8 Storage pvc and storage classes](https://github.com/zainabmirkar/100DaysOfDevOps/blob/main/Kubernetes/Storage/Day%2048%20Storage%20pvc%20and%20sc.md)<br/>
+[Day 49 Jenkins Introduction](https://github.com/zainabmirkar/100DaysOfDevOps/blob/main/CICD/GitHub%20Actions/Jenkins/Day%2049%20Jenkins%20Introduction.md)<br/>
