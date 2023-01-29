@@ -50,3 +50,4 @@ This repository is used to document my journey on getting a better foundational 
 [Day 47 K8 Cluster Maintenance](https://github.com/zainabmirkar/100DaysOfDevOps/blob/main/Kubernetes/Cluster%20Maintenance/Cluster%20Maintenance.md) <br/>
 [Day 48 K8 Storage pvc and storage classes](https://github.com/zainabmirkar/100DaysOfDevOps/blob/main/Kubernetes/Storage/Day%2048%20Storage%20pvc%20and%20sc.md)<br/>
 [Day 49 Jenkins Introduction](https://github.com/zainabmirkar/100DaysOfDevOps/blob/main/CICD/GitHub%20Actions/Jenkins/Day%2049%20Jenkins%20Introduction.md)<br/>
+[Day 50 Deploying Node.js Application in Kubernetes ](https://github.com/zainabmirkar/100DaysOfDevOps/blob/main/Devops%20Projects/Kubernetes/Deploying%20Node.js%20Application%20in%20Kubernetes.md) <br/>
