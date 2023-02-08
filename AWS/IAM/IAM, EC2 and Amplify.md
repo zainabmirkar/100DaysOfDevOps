@@ -118,9 +118,9 @@ Initialize git and push the application to the new GitHub repo
 <br/>
 
 #### Reference
-https://aws.amazon.com/getting-started/hands-on/host-static-website/?ref=gsrchandson
-https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/concepts.html
-https://docs.aws.amazon.com/IAM/latest/UserGuide/introduction.html
+https://aws.amazon.com/getting-started/hands-on/host-static-website/?ref=gsrchandson <br/>
+https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/concepts.html <br/>
+https://docs.aws.amazon.com/IAM/latest/UserGuide/introduction.html <br/>
  
  
  
