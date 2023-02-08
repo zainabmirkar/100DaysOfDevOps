@@ -4,9 +4,6 @@
 - Never use root account to access aws services.
 
 
-  ![image](https://user-images.githubusercontent.com/85761276/217570412-0cf27020-afca-4271-8a61-6dde3a0f3dd3.png)
-
-
 # IAM Users
 ![image](https://user-images.githubusercontent.com/85761276/217572801-e2274c62-b574-4552-a176-7a267ecab0ec.png)
 
