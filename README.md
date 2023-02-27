@@ -52,3 +52,4 @@ This repository is used to document my journey on getting a better foundational 
 [Day 49 Jenkins Introduction](https://github.com/zainabmirkar/100DaysOfDevOps/blob/main/CICD/GitHub%20Actions/Jenkins/Day%2049%20Jenkins%20Introduction.md)<br/>
 [Day 50 Deploying Node.js Application in Kubernetes ](https://github.com/zainabmirkar/100DaysOfDevOps/blob/main/Devops%20Projects/Kubernetes/Deploying%20Node.js%20Application%20in%20Kubernetes.md) <br/>
 [Day 51 AWS NAT Gateways and NAT Instances](https://github.com/zainabmirkar/100DaysOfDevOps/blob/main/AWS/VPC/Day%2051%20NAT%20Gateways%20and%20NAT%20Instances.md)<br/>
+[Day 52 AWS CodePipeline Project](https://github.com/zainabmirkar/100DaysOfDevOps/blob/main/Devops%20Projects/AWS/Day%2052%20CodePipeline%20Project.md)<br/>
