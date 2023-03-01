@@ -49,6 +49,12 @@ So that's a NAT gateway. A NAT gateway is an AWS service that you can deploy.
 
 <br/>
 
+# sg vs nacl
+- sg can be applied to instance. it works at instance level
+- nacl works at subnet level
+- sg supports aloow rules only. there is no such tjing as denying a rule
+- sg is statefull meaning it allows return traffic.
+- nacl is stateless meaning you need to have inbound as well as outbound
 
 
  References <br/> 
