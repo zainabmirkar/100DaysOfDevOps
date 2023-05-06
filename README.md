@@ -55,3 +55,13 @@ This repository is used to document my journey on getting a better foundational 
 [Day 52 AWS CodePipeline Project](https://github.com/zainabmirkar/100DaysOfDevOps/blob/main/Devops%20Projects/AWS/Day%2052%20CodePipeline%20Project.md)<br/>
 [Day 53 AWS SNS and EventBridge Project](https://github.com/zainabmirkar/100DaysOfDevOps/blob/main/Devops%20Projects/AWS/Day%2053%20AWS%20SNS%20and%20EventBridge%20Project.md) <br/>
 [Day 54 AWS CloudTrail](https://github.com/zainabmirkar/100DaysOfDevOps/blob/main/AWS/Day%2054%20CloudTrail.md)<br/>
+[Day 55 AWS Multi-Region access points in S3 Mini Project](https://github.com/zainabmirkar/100DaysOfDevOps/blob/main/Devops%20Projects/AWS/Multi-%20Region%20access%20points%20in%20S3.md)<br/>
+[Day 56 Chef vs Puppet vs Ansible](https://github.com/zainabmirkar/100DaysOfDevOps/blob/main/Configuration%20Management/Chef%20vs%20Ansible%20vs%20Puppet.md)<br/>
+
+
+
+
+
+
+
+
