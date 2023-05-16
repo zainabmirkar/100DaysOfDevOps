@@ -29,8 +29,22 @@
 ```
 ansible production -m setup
 ```
-
+## modules examples
+- copy module
+- gather facts module
+- service module
+- file module
+- command module
+- package module
+- user module
+- get_url module
 
 ## Difference between modules and adhoc-commands
 - -m is in modules
 - -a is present in both stands for argument
+
+
+
+
+
+
