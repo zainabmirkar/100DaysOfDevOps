@@ -60,6 +60,5 @@ This repository is used to document my journey on getting a better foundational 
 [Day 57 Ansible Introduction and Installation](https://github.com/zainabmirkar/100DaysOfDevOps/blob/main/Configuration%20Management/Ansible/ansible.md)<br/>
 [Day 58 Ansible adhoc-commands and modules](https://github.com/zainabmirkar/100DaysOfDevOps/blob/main/Configuration%20Management/Ansible/Day%2058%20Adhoc_Commands%20and%20Modules.md)<br/>
 [Day 59 Ansible Playbooks](https://github.com/zainabmirkar/100DaysOfDevOps/blob/main/Configuration%20Management/Ansible/Day%2059%20Playbooks.md)<br/>
-
-
+[Day 60 Ansible Vault](https://github.com/zainabmirkar/100DaysOfDevOps/blob/main/Configuration%20Management/Ansible/Ansible%20Vault.md)<br/>
 
