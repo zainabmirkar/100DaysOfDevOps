@@ -54,6 +54,9 @@ tasks:
 ## Roles
 - organising tasks 
 - organise playbooks into a directory called as roles
+```
+mkdir -p playbook/roles/webserver/taska
+```
 
 
 
