@@ -3,7 +3,7 @@
 - This won't be beneficial when working in production.
 - To see the update without having to rebuild the image we have docker volumes.
 
-    ![image](https://user-images.githubusercontent.com/85761276/208603830-6f6ef2c4-2684-45ae-b89f-fbf68f677b60.png)
+    ![image](https://user-images.githubusercontent.com/85761276/208603830-6f6ef2c4-2684-45ae-b89f-fbf68f6```
 - --rm flag deletes the container automatically if it is stopped.
 
 ## Docker Volumes
@@ -12,3 +12,49 @@
     ![image](https://user-images.githubusercontent.com/85761276/208604940-1322e439-9d7d-4a11-b123-12d268eaebf2.png)
 
 - Here we can see that nodemon restarting again due to changes and the changes will be reflected in our app without having to rebuild the image.
+
+
+- Mounting a Volume to a Container:
+
+```
+docker run -v myvolume:/path/in/container myimage
+```
+
+- Mounting a Host Directory as a Volume:
+```
+docker run -v /host/path:/container/path myimag
+```
+
+- Inspecting a Volume:
+
+```
+docker volume inspect myvolume
+```
+- removing a volume
+
+```
+docker volume rm myvolume
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
