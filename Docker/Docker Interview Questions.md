@@ -67,16 +67,33 @@ Docker differs from traditional virtualization in that it does not require a ful
 
 
 
+- What is the purpose of a Docker registry?
+  - A Docker registry is a central repository for storing and distributing Docker images. It allows users to share and access images from anywhere. Docker
+  - Hub is the default public registry, but private registries can be set up for internal use or to store proprietary images.
 
 
 
+# Dockerfile questions
+
+- what is cmd?
+  - It specifies what command should be executed when the container starts
+  - Only the last CMD instruction in the Dockerfile is effective. If multiple CMD instructions are provided, the last one will be used.
+  - The CMD instruction is often used to define the default behavior of the container, such as running a specific command or starting the main application.
 
 
+- What is Entrypoint?
+  - The ENTRYPOINT instruction sets the primary command or executable that should be executed when the container starts.
+It provides a fixed starting point for the container and cannot be overridden by command-line arguments.
+  - Note: If both CMD and ENTRYPOINT are specified in the same Dockerfile, the CMD arguments will be appended to the ENTRYPOINT command.
+  - The key difference between CMD and ENTRYPOINT is that CMD can be overridden by providing command-line arguments when running the container, while ENTRYPOINT cannot be overridden.
+  
+- What is ADD?
+  ```ADD http://example.com/file.tar.gz /app/```
+  - The file file.tar.gz is downloaded from the URL http://example.com/file.tar.gz and placed in the /app/ directory.
 
-
-
-
-
+- Difference between add and copy?
+  -  the COPY instruction is generally recommended over ADD for copying local files or directories, as it has simpler syntax and doesn't perform any automatic unpacking or retrieval of remote URLs. 
+  -  ADD should be used when you specifically need its additional features.
 
 
 
