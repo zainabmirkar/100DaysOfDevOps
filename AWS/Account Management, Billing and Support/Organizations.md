@@ -11,7 +11,13 @@
 - When using AWS Organizations, you can implement various multi-account strategies to effectively manage and govern your AWS resources.
 
 
+- you can use multiaccount or one account multi vpc
 
+# SCP
+- scp does not have any effect on master account
+- whitelist or blacklist iam actions
+- applied at ou or account level
+- looks just like iam policy
 
 
 
