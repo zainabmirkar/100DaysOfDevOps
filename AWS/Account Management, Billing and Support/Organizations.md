@@ -24,7 +24,8 @@
 - does not allow anything by default
 
 
-
+## Organizational Unit
+- ou can enable you to group several aws accounts together and administer them as a single unit
 
 ### multi account strategy in AWS.
 - That means that you wanna create the accounts
