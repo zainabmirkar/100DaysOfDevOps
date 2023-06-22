@@ -28,5 +28,29 @@ An EC2 Fleet is a group of On-Demand Instances and Spot Instances. The EC2 Fleet
 When to scale? <br/>
 By using target tracking we will tell the asg when the cpu utilization goes up by a certain percentage to scale up or down. <br/>
 
+
+# Autoscaling strategies
+- manual scaling
+- dynamic scaling
+- predictive scaling using ml 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 references: <br/>
 https://www.youtube.com/watch?v=NGWKbF67_1Q&list=PLiH9_MU-6RjI9gdFqmvUfKRfw_zRxIb6o&index=15
