@@ -15,6 +15,18 @@ Elastic Load Balancing scales your load balancer capacity automatically in respo
 2) reduces cost
 3) load balancers are intergrated with other services as well like RDS, SNS, VPC, Route 53, Amazon AMI etc.
 
+## Types of loadbalancers
+- application lb (layer 7 http/https/grpc traffic only, static dns url)
+- network lb (ultra high performance, allows for tcp/udp, layer 4, static ip through elastic ip)
+- gateway lb (level 3, geneve protocol on ip packets, route traffic to firewalls that you manage on ec2 )
+  - So the gateway load balancer doesn't balance the load to your application. It actually balances the load of the traffic to the virtual appliances that you run on EC2 instances so that you can analyze the traffic or perform firewall operations. That's why it's called third-party security virtual appliances.
+  - And they can be, many of them address represented one on this diagram. And so therefore, the traffic, when it goes to the gateway load balancer, first sends the traffic to these EC2 instances that will analyze the traffic. The traffic will be sent back afterwards to the gateway load balancer and then forwarded back to the applications.
+  - So the gateway load balancer here is in the middle to allow us to inspect the IP packets themself and to perform firewall features or intrusion detection or deep packet inspection.
+- classic (layer 4 and 7) (older gen)
+
+
+
+
 # Listeners
 Define the port and protocol on which the lb listens for inoming connections. <br/>
 Routing rules are defined on listeners.
