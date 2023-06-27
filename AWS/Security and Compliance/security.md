@@ -43,33 +43,28 @@
 - In AWS Key Management Service (KMS), there are many types of Customer Master Keys (CMKs) that you can use: AWS managed CMKs, aws owned keys and  customer managed CMKs.
 
 
+# ACM
+- easily provision, manage and deploy ssl/ tls certificates
+- supports both public and private tls certificates
+- free public tls certs
+- automatic tls certs renewal
+- integrtaions with elb, coudfront distributions, api's on api gateway
 
 
+# Aws Secrets Manager
+- meant for storing secrets
+- rotation of secrets every X days
+- integration with rds, mysql, poestgresql and aurora
+- secrets are encrypted using kms
+- mostly meant for rds integration
+
+# aws artifact (not really a service)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+# AWS GuardDuty
+- intelligent threat discovery to protect your aws account
+- one click to enable (30 days free trial)
+- uses ml algo
 
 
 
