@@ -64,3 +64,7 @@ This repository is used to document my journey on getting a better foundational 
 [Day 61 AWS Databases](https://github.com/zainabmirkar/100DaysOfDevOps/tree/main/AWS/Databases)<br/>
 [Day 62 Terraform Basics](https://github.com/zainabmirkar/100DaysOfDevOps/blob/main/Terraform/Terraform%20Basics.md)<br/>
 [Day 63 AWS VPC](https://github.com/zainabmirkar/100DaysOfDevOps/blob/main/AWS/VPC/VPC%20Basics.md)<br/>
+[Day 64 AWS Security Services](https://github.com/zainabmirkar/100DaysOfDevOps/blob/main/AWS/Security%20and%20Compliance/security.md)<br/>
+
+
+
