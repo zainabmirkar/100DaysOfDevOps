@@ -18,3 +18,43 @@
 - As a result, the infrastructure ends up in an unexpected state with only one set of changes applied, and the other set of changes is lost.
 - Had they used state locking, only one of them would have been allowed to apply changes at a time, avoiding the race condition and ensuring that both sets of changes were appropriately recorded in the state file.
 - Some state storage backends like "Amazon S3" or "HashiCorp Consul" offer built-in locking mechanisms.
+
+
+## Remote Backends
+- Create an S3 Bucket: First, you need to create an S3 bucket in your AWS account to store the Terraform state file. You can do this manually through the AWS Management Console or use Terraform itself to provision the bucket.
+- Configure Backend in Terraform Configuration: In your Terraform configuration files, add the following backend block to specify the S3 backend:
+
+```
+terraform {
+  backend "s3" {
+    bucket         = "your-s3-bucket-name"
+    key            = "path/to/your/state.tfstate"
+    region         = "your-aws-region"
+    dynamodb_table = "your-dynamodb-table-name"  # Optional for state locking
+  }
+}
+
+```
+- Replace "your-s3-bucket-name" with the name of the S3 bucket you created, "path/to/your/state.tfstate" with the desired path and name for your state file, and "your-aws-region" with the appropriate AWS region code.
+- The dynamodb_table attribute is optional but recommended for enabling state locking using DynamoDB as a lock table. You can create a DynamoDB table in the same AWS region and provide its name to enable locking.
+- then do terraform init and apply
+- By using the S3 remote backend, you can collaborate with other team members, share the same state file across environments, and safely manage infrastructure as code. It provides a centralized location for storing the Terraform state, making it easier to manage and maintain the infrastructure over time.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
