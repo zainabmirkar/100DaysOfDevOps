@@ -40,7 +40,10 @@ terraform {
 - then do terraform init and apply
 - By using the S3 remote backend, you can collaborate with other team members, share the same state file across environments, and safely manage infrastructure as code. It provides a centralized location for storing the Terraform state, making it easier to manage and maintain the infrastructure over time.
 
-
+##  Terraform state commands
+- ```terraform state show s3_bucket_finance```
+- subcommands can be ```list, mv,pull, rm, show```
+- 
 
 
 
