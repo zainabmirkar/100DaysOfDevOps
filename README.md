@@ -1,7 +1,13 @@
 # 100DaysOfDevOps
 ![image](https://user-images.githubusercontent.com/85761276/212458048-0a42c0e1-85c3-44f8-8213-6b74ded0ad30.png)
 
-This repository is used to document my journey on getting a better foundational knowledge of "DevOps".
+### What is DevOps?
+- DevOps engineer automates software development life cycle. DevOps engineer improves organization's efficiency by automating building, testing, and deployment processes. Automation leads to efficiency and reduces time by avoiding manual intervention.
+
+
+
+
+### This repository is used to document my journey on getting a better foundational knowledge of "DevOps".
 
 [Day 1 Jenkins master slave setup on EC2 instance](https://github.com/zainabmirkar/100DaysOfDevOps/blob/main/AWS/Day1.md) <br/>
 [Day 2 AWS Security Groups and user data](https://github.com/zainabmirkar/100DaysOfDevOps/blob/main/AWS/Day2.md) <br/>
