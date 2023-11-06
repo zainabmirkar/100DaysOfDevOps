@@ -22,6 +22,8 @@
 - allows instances in private subnet to access the internet while remaining private
 - nat gateway is deployed in public subnet
 - then we create a route in private subnet to the nat gateway (which resides in public subnet) and then to the igw
+- only accept outbound and not inbound
+- managed by awsm
 
 ## NACL
 - works at subnet level
@@ -64,6 +66,8 @@ RDS, Aurora, et cetera, et cetera.
 ## Site to Site VPN and Direct Connect
 
 
+## Bastion host
+- ec2 instance sits in public subnet which is bound by sg ()
 
 
 
