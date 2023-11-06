@@ -21,13 +21,18 @@
 ## Nat gateway
 - allows instances in private subnet to access the internet while remaining private
 - nat gateway is deployed in public subnet
-- then we create a route from private subnet to the nat gateway and then to the igw
+- then we create a route in private subnet to the nat gateway (which resides in public subnet) and then to the igw
 
-## SG and NACL
+## NACL
+- works at subnet level
 - a firewall that controls traffic from and to subnet
-- allow deny rules
-- attached at subnet level
-- rules only include ip addresses
+- by default nacl allows inbound and outbound traffic
+- have options for noht allow and deny rules
+- stateless
+
+## SG
+- works at instance level
+- stateful
 
 ## VPC Flow logs
 - VPC flow logs are a log of all the IP traffic going through your interfaces. So you can get a VPC flow log, a subnet flow log
