@@ -67,7 +67,17 @@ RDS, Aurora, et cetera, et cetera.
 
 
 ## Bastion host
-- ec2 instance sits in public subnet which is bound by sg ()
+- ec2 instance sits in public subnet which is bound by sg (TCP 22) sorce will be engineer's ip that need to connect to private server
+- private servers will also have to configure sg which matches the sg of bastion server
+- ssh agent forwarding in which the private key is stored on the local machine instead of bastion server which makes it easy and secure to connect to private servers
+
+## VPN 
+- suppose we want to create connection between our servers in private subnet and on premise servers we can create a vpn connection
+- on aws side create a virtual gateway and on premise side customer gateway then initiate a vpn tunnel between the two endpoints
+- vpn tunnel can only be initiated from customer gateway and not virtual gateway
+
+
+
 
 
 
