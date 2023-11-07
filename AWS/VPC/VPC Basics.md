@@ -53,7 +53,7 @@ RDS, Aurora, et cetera, et cetera.
 - connection is not transitive
 
 ## VPC Endpoints
-- endpoints allow you to connect to aws services using a private network instead of a public network
+- endpoints allow you to connect to aws services using a private network instaed of using virtual private gateway, nat, internet gatewway, vpn or dc
 - enhanced security
 - low latency
 - vpc endpoint gateway (s3 and dynamodb)
@@ -76,7 +76,8 @@ RDS, Aurora, et cetera, et cetera.
 - on aws side create a virtual gateway and on premise side customer gateway then initiate a vpn tunnel between the two endpoints
 - vpn tunnel can only be initiated from customer gateway and not virtual gateway
 
-
+## ENI
+- 
 
 
 
