@@ -62,6 +62,7 @@ RDS, Aurora, et cetera, et cetera.
 ## Private Link
 - A PrivateLink in AWS allows you to securely access services hosted on AWS privately, without needing to traverse the public internet.
 - requires a network loadbalancer and eni (Elastic Network Interface)
+- privatelink consists of service providers and service consumers
 
 ## Site to Site VPN and Direct Connect
 
@@ -77,8 +78,13 @@ RDS, Aurora, et cetera, et cetera.
 - vpn tunnel can only be initiated from customer gateway and not virtual gateway
 
 ## ENI
-- 
-
+- logical virtual network cards within your vpc
+- Having several ENIs attached to one instance enables an instance to interact on two separate subnets.
+- attach to ec2
+- can detach and reconnect to another instance 
+- PNI is already attached to ec2 by default labelled as eth0
+- all the traffic passing thrugh eni can be captured by vpc flow logs
+- A single ENI can be attached to multiple EC2 instances, but each instance can only be connected to one ENI. 
 
 
 
