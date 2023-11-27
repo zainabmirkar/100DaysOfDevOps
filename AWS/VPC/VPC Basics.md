@@ -56,6 +56,9 @@ RDS, Aurora, et cetera, et cetera.
 - endpoints allow you to connect to aws services using a private network instaed of using virtual private gateway, nat, internet gatewway, vpn or dc
 - enhanced security
 - low latency
+- there are 2 types interface endpoint and gateway endpoint
+- In AWS, an interface endpoint is a logical connection between your Virtual Private Cloud (VPC) and a supported AWS service. It allows you to access the AWS service over the Amazon network instead of over the internet. This can enhance security by keeping traffic between your VPC and the AWS service within the AWS network, without going over the public internet.  they use eni's with private ip
+- gateway doesn't use eni's. Gateway endpoints do not enable AWS PrivateLink. only work with ipv4
 - vpc endpoint gateway (s3 and dynamodb)
 - rest of the services it is going to be an interface
 
