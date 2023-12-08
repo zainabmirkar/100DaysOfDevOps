@@ -6,6 +6,7 @@ GCM encryption key
 - can also create asymmetric kms will create both public(accesible outside of kms) and private key(will reside in aws, never leaves kms without encryption)
 
 ### 3 different types of keys in terms of ownership
-- customer managed: asyemtric, more control, we can create key policies, can enable and disable key
-- aws managed
+- customer managed: asyemtric, more control, we can create key policies, can enable and disable key, administrative functions like enable and disable keys, manage key rotation, add tags, create aliases, manage key rotation
+- aws managed: no administration, format is aws/servicename
 - aws owned
+  
