@@ -1,8 +1,11 @@
 - What is Docker, and how does it differ from virtualization? <br/>
   - Docker is an open-source platform that allows you to automate the deployment, scaling, and management of applications using containerization.
 It provides an isolated environment called a container that packages the application and its dependencies, making it portable across different environments.
-Docker differs from traditional virtualization in that it does not require a full operating system to be emulated. Instead, Docker containers share the host system's kernel, making them lightweight, fast to start, and efficient in resource utilization compared to virtual machines.
-  - Instead, Docker containers share the host system's kernel, making them lightweight, fast to start, and efficient in resource utilization compared to virtual machines.
+Docker differs from traditional virtualization in that it does not require a full operating system to be emulated. 
+- Instead, Docker containers share the host system's kernel, making them lightweight, fast to start, and efficient in resource utilization compared to virtual machines.
+- VMs can take longer to start and deploy because they involve booting up an entire virtual OS. Containers start up quickly since they don't need to boot an entire OS; they use the host OS's kernel.
+- VMs may face compatibility issues when moving between different virtualization platforms. They are less portable. Containers are highly portable. They encapsulate the application and its dependencies, making it easier to move between different environments.
+- Docker Containers: Ideal for microservices architectures, where applications are broken down into small, independent components. Virtual Machines: Typically used for running multiple applications with different OS requirements on the same physical server.
 
 
 
