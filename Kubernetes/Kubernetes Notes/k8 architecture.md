@@ -18,3 +18,7 @@
 
 ### ETCD
 - database. distributed key value store
+- nosql database
+- raft consensus: etcd is built on the Raft consensus algorithm to ensure data store consistency across all nodes in a cluster
+- protobuf
+- wal
