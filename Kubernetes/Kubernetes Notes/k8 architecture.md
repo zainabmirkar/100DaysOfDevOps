@@ -24,4 +24,13 @@
 - wal
 
 ### kube scheduler
-- 
+-  assigns Pods to Nodes
+-  schedule one Pod is split into two phases, the scheduling cycle and the binding cycle <br/>
+  ![image](https://github.com/zainabmirkar/100DaysOfDevOps/assets/85761276/55012db3-7b7e-4127-99d2-0aca90c2df3f)
+
+- https://kubernetes.io/docs/concepts/scheduling-eviction/scheduling-framework/
+
+### kube controller manager
+- In Kubernetes, a controller is a control loop that watches the shared state of the cluster through the apiserver and makes changes attempting to move the current state towards the desired state
+- In Kubernetes, controllers are control loops that watch the state of your cluster, then make or request changes where needed. Each controller tries to move the current cluster state closer to the desired state.
+- there are different types of controllers. Kubernetes comes with a set of built-in controllers that run inside the kube-controller-manager.
