@@ -40,3 +40,12 @@
 - kube proxy
 - kubelet
 - cri
+- cni: Container Network Interface. The CNI plugin receives information about the pod’s network requirements and assigns an IP address to pod A’s container. A wide range of CNI plugins is available to meet different networking requirements. Some popular examples include Calico, Flannel, Weave, and Canal. 
+- csi: container storage
+
+### Kubelet
+- kubelet --> CRI asks runc to create cntainer--> crio/containerd --> OCI runc --> cgroups(checks cpu memory etc to create a resource)-->configure pod's network using cni--> pull images --> start container--> run the application
+- ![image](https://github.com/zainabmirkar/100DaysOfDevOps/assets/85761276/48e2519d-d5bf-44d9-87f6-3f342609a808)
+
+
+
