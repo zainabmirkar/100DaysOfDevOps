@@ -9,7 +9,7 @@
 ### Containers:
 
 - stateless and stateful
-- ephemeral containers
+- ephemeral containers: 
 
 ### Commands
 - k get nodes -o wide
@@ -20,7 +20,7 @@
 - k apply -f pod.yml
 - k delete pod/podname
 - k exec -it -- bash (we dont exec in production env)
-- 
+- k get pod/nginx -o yaml>1.yaml
 
 ### pods
 - disposable and ephemeral
