@@ -24,4 +24,12 @@
 
 ### pods
 - disposable and ephemeral
-- 
+
+### ephemeral containers
+- exec is not used in production
+- Since Pods are intended to be disposable and replaceable, you cannot add a container to a Pod once it has been created. Instead, you usually delete and replace Pods in a controlled fashion using deployments.
+- Ephemeral containers are useful for interactive troubleshooting
+- not much used because you cant kill it
+- ```kubectl debug <pod-name> --image=busybox --target=<container-name>``` In this command: <pod-name> is the name of the pod you want to debug.
+- --image specifies the image to use for the ephemeral container.
+- --target specifies the container you want to target within the pod.
