@@ -33,3 +33,24 @@
 - ```kubectl debug <pod-name> --image=busybox --target=<container-name>``` In this command: <pod-name> is the name of the pod you want to debug.
 - --image specifies the image to use for the ephemeral container.
 - --target specifies the container you want to target within the pod.
+
+### Static pods
+- Static pods are a type of pod in Kubernetes that are managed directly by the kubelet on a specific node, rather than by the Kubernetes API server.
+- Since the API server is not involved, static pods can be useful for running essential services on nodes that need to start up before the Kubernetes API server is fully operational.
+- The configuration file that defines static pods is typically placed in a predefined directory (e.g., /etc/kubernetes/manifests). The kubelet scans this directory and creates or updates pods based on the contents of the files.
+- Automatic Restart
+- Use Cases: Static pods are often used for critical components that must be available during cluster startup, such as the kube-apiserver, kube-scheduler, and kube-controller-manager in a self-hosted Kubernetes setup.
+- ![image](https://github.com/zainabmirkar/100DaysOfDevOps/assets/85761276/dc679d49-b57e-4068-9331-446266e5b3b4)
+- kubelet directory
+- ![image](https://github.com/zainabmirkar/100DaysOfDevOps/assets/85761276/27f46841-2c85-4b8f-8eaa-6072317318d4)
+
+### daemon sets
+- A DaemonSet ensures that all (or some) Nodes run a copy of a Pod.
+- running a cluster storage daemon on every node
+- running a logs collection daemon on every node
+- running a node monitoring daemon on every node
+
+### init containers
+- runs first
+- if the init container fails then the application container wont run
+- runs in sequesnce ... if there are multiple init containers and if 1st one fails the others wont run
