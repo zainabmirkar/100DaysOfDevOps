@@ -53,4 +53,31 @@
 ### init containers
 - runs first
 - if the init container fails then the application container wont run
-- runs in sequesnce ... if there are multiple init containers and if 1st one fails the others wont run
+- runs in sequence ... if there are multiple init containers and if 1st one fails the others wont run
+- work done then vanish
+
+### side cars
+- always there monitoring the application container
+- restartpolicy: always
+- Sidecar containers are the secondary containers that run along with the main application container within the same Pod. These containers are used to enhance or to extend the functionality of the primary app container by providing additional services, or functionality such as logging, monitoring, security, or data synchronization, without directly altering the primary application code.
+- These can be started, stopped, or restarted without effecting the main application container and other init containers.
+
+#### restart policy -> never, always, on failure
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
