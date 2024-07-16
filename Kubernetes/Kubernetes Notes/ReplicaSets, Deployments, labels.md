@@ -24,4 +24,38 @@ cluster --> node --> namesapce --> deployment --> rs --> pods --> containers
 - rc is no longer used
 - k apply -f rs.yml
 - k scale rs rs-demo --replicas=4
-- what if we delete the rs 
+- what if we delete the rs
+- When scaling down, the ReplicaSet controller chooses which pods to delete by sorting the available pods to prioritize scaling down pods based on the following general algorithm:
+- Pending (and unschedulable) pods are scaled down first
+- If controller.kubernetes.io/pod-deletion-cost annotation is set, then the pod with the lower value will come first.
+Pods on nodes with more replicas come before pods on nodes with fewer replicas.
+- If the pods' creation times differ, the pod that was created more recently comes before the older pod (the creation times are bucketed on an integer log scale when the LogarithmicScaleDown feature gate is enabled)
+
+### annotations
+- Annotations are key/value pairs.
+- k annotate pod demopod maintainer='zain@gmail.com'
+
+### deployments
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
